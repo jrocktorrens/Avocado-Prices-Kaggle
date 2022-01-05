@@ -10,6 +10,6 @@ Using Jupyter-Lab, I preprocessed the data set, checked for data types, Nans, Ou
 I visualised the different distributions of the data, and looked for inner correlations, highlighting insights.
 
 ## Source/References
-I used the data set from https://www.kaggle.com/neuromusic/avocado-prices and modified it for my own use.
+I used the data set from https://www.kaggle.com/neuromusic/avocado-prices and modified it for my own usee.
 
 I'm open for comments for this work.
