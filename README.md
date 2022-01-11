@@ -2,7 +2,7 @@
 This is my go on Kaggle's Avocado Prices Competition.
 
 ## Purpose
-In this repo I preprocess Kaggle's Avocado Prices data set..
+In this repo I preprocess Kaggle's Avocado Prices data set.
 
 ## What I did
 In order to show ways to deal with Nans, I modified and deleted some of the data.
