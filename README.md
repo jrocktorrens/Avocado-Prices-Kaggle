@@ -1,5 +1,5 @@
 # Avocado-Prices-Kaggle
-This is my go on Kaggle's Avocado Prices Competition.
+This is my go on Kaggle's Avocado Prices Competition..
 
 ## Purpose
 In this repo I preprocess Kaggle's Avocado Prices data set.
